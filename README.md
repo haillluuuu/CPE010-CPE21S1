@@ -52,7 +52,7 @@ This repository contains my programming activities, exercises, and projects rela
 
 ## 📫 Connect With Me
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- GitHub: [@haillluuuu](https://github.com/haillluuuu)
 
 ---
 
