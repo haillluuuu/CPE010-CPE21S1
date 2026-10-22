@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm **Hail B. Canoy**, a Computer Engineering stud
 ## 👨‍💻 About Me
 
 - 🎓 **Course:** Computer Engineering
-- 🏫 **School:** Technological Institute of the Philippines
+- 🏫 **School:** Technological Institute of the Philippines (Quezon City)
 - 📚 **Subject:** CPE 010 - Data Structures and Algorithms
 - 👨‍🏫 **Instructor:** Engr. Jimlord M. Quejado
 - 💻 **Programming Language:** C++
