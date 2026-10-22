@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="./course-cover.png" alt="CPE 010 Course Cover" width="100%">
-</div>
-
 # Hi, I'm Hail B. Canoy 👋
 
 ### Computer Engineering Student | Aspiring Software Engineer 💻
