@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student | Aspiring Software Engineer 💻
 
-Welcome to my GitHub profile! I'm **Hail B. Canoy**, a Computer Engineering student at the **Technological Institute of the Philippines (TIP)**. I'm currently learning programming, data structures, algorithms, and software development.
+Welcome to my GitHub profile! I'm **Hail B. Canoy**, a Computer Engineering student at the **Technological Institute of the Philippines (TIP) Quezon City**. I'm currently learning programming, data structures, algorithms, and software development.
 
 ---
 
